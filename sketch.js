@@ -5,11 +5,11 @@ var jerry , jerryI , jerry2;
 
 function preload() {
     //load the images here
-bg = loadImage("images/garden.png");
-tomI = loadImage("images/cat1.png");
-jerryI = loadImage("images/mouse1.png");
-tom2 = loadImage("images/cat2.png","images/cat3.png");
-jerry2 = loadImage("images/mouse4.png");
+bg = loadImage("garden.png");
+tomI = loadImage("cat1.png");
+jerryI = loadImage("mouse1.png");
+tom2 = loadImage("cat2.png","cat3.png");
+jerry2 = loadImage("mouse4.png");
 
 }
 
